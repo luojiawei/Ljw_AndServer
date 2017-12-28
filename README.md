@@ -13,3 +13,5 @@ AndServer是一个Android的Web服务器, 支持部署动态网站和静态网�
 
 
 [AndServer github](https://github.com/yanzhenjie/AndServer)
+
+[AndServer使用简介](http://www.yanzhenjie.com/AndServer/)
